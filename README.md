@@ -2,6 +2,9 @@
 
 A simple web-based Sentiment Analysis application built with **Django**, **HTML**, **CSS**, and **JavaScript**. The application analyzes user-entered text and classifies it as **Positive**, **Negative**, or **Neutral** using TextBlob.
 
+<img width="610" height="537" alt="image" src="https://github.com/user-attachments/assets/d23d12b4-dfdd-4bb7-a147-75922854dffb" />
+
+
 ---
 
 ## Features
