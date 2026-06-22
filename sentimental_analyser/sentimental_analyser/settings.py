@@ -11,7 +11,9 @@ SECRET_KEY = 'django-insecure-n-%u!ct_f!p*_pv7^!h)8bts*mffgpoqp82oyvrz)sr8hbqmd#
 
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["sentimental-analyser-wjpl.onrender.com",
+"localhost",
+"127.0.0.1",]
 
 
 
