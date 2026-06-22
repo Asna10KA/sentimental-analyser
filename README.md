@@ -1,10 +1,6 @@
 # Sentiment Analyzer using Django
 
 A simple web-based Sentiment Analysis application built with **Django**, **HTML**, **CSS**, and **JavaScript**. The application analyzes user-entered text and classifies it as **Positive**, **Negative**, or **Neutral** using TextBlob.
-
-<img width="610" height="537" alt="image" src="https://github.com/user-attachments/assets/d23d12b4-dfdd-4bb7-a147-75922854dffb" />
-
-
 ---
 
 ## Features
@@ -163,13 +159,6 @@ Polarity Score: 0.625
 
 ## Requirements
 
-Create a `requirements.txt` file:
-
-```txt
-Django>=5.0
-textblob>=0.18.0
-```
-
 Install using:
 
 ```bash
@@ -191,21 +180,13 @@ pip install -r requirements.txt
 
 ## Screenshots
 
-Add screenshots here after running the project.
-
-```text
-screenshots/
-├── homepage.png
-└── result.png
-```
-
----
+<img width="610" height="537" alt="image" src="https://github.com/user-attachments/assets/d23d12b4-dfdd-4bb7-a147-75922854dffb" />
 
 ## Author
 
-Your Name
+Asna K A
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/Asna10KA
 
 ---
 
